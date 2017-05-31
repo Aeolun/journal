@@ -1,5 +1,5 @@
 # Journal
-A super basic personal journal.
+A super basic mobile-compatible personal journal.
 
 I needed something that would allow me to write down my thoughts about the day with a minimum of fuzz, and since I couldn't find anything simple enough. I built it.
 
